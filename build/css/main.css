@@ -1,0 +1,10 @@
+h1 {
+  color: red;
+  display: flex;
+  font-size: 78px; }
+
+.test {
+  color: red;
+  display: flex; }
+  .test:after {
+    opacity: 1; }

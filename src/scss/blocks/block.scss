@@ -1,0 +1,14 @@
+h1 {
+	color: red;
+	display: flex;
+	font-size:78px;
+}
+
+.test {
+	color: red;
+	display: flex;
+	&:after {
+	opacity: 1;
+	}
+
+}
